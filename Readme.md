@@ -15,5 +15,5 @@ From the page you can upload a image, then click on the button for watching the 
 
 ## Information
 
-* Page: 
-* Author: setex_10
+* Page: https://setex10.github.io/ModelClassification/
+* Author: Setex10
